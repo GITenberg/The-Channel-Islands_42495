@@ -1,0 +1,26 @@
+_repo: The-Channel-Islands_42495
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42495-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morris, Joseph E. (Joseph Ernest)
+    alias: Morris, J. E. (Joseph Ernest)
+    gutenberg_agent_id: '1412'
+    url: http://www.gutenberg.org/2009/agents/1412
+description: ''
+gutenberg_issued: '2013-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Beautiful Britain
+subjects:
+- !lcc 'DA'
+- !lcsh 'Channel Islands'
+title: The Channel Islands
+url: http://www.gutenberg.org/ebooks/42495
